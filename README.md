@@ -1,3 +1,5 @@
+[![Deploy to Baseten](https://user-images.githubusercontent.com/2389286/236301770-16f46d4f-4e23-4db5-9462-f578ec31e751.svg)](https://app.baseten.co/explore/nsql)
+
 # NSQL Truss
 
 This is a [Truss](https://truss.baseten.co/) for [Number Station](https://www.numbersstation.ai/)'s 350M parameter NSQL model. NSQL is a text-to-SQL foundation model, enabling users to query their databases using natual language. There are also 2B and 6B NSQL variants available, which you can alternatively deploy by editing the HuggingFace paths in `model/model.py`.
