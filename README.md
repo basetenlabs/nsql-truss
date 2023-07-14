@@ -43,7 +43,7 @@ baseten.deploy(nsql_truss)
 Once your Truss is deployed, you can start using the NSQL model through the Baseten platform! Navigate to the Baseten UI to watch the model build and deploy and invoke it via the REST API.
 
 ## NSQL API documentation
-This section provides an overview of the LLaMA-7B API, its parameters, and how to use it. The API consists of a single route named  `predict`, which you can invoke to generate text based on the provided instruction.
+This section provides an overview of the NSQL API, its parameters, and how to use it. The API consists of a single route named  `predict`, which you can invoke to generate text based on the provided instruction.
 
 ### API route: `predict`
 The predict route is the primary method for generating text completions based on a given instruction. It takes several parameters:
